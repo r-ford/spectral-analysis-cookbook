@@ -2,6 +2,34 @@ name: cookbook-dev
 channels:
   - conda-forge
 dependencies:
+  # Jupyter / MyST
   - jupyterlab
   - mystmd
   - jupyterlab-myst
+  - ipython
+  - ipykernel
+
+  # Core scientific stack
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib-base
+  - seaborn
+
+  # Geoscience / gridded data
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - cftime
+  - dask
+  - cartopy
+  - xesmf
+
+  # Spectral analysis & EOFs
+  - eofs
+  - pywavelets
+
+  # Data fetching utilities
+  - pooch
+  - requests
+
