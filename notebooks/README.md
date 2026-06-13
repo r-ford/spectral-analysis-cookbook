@@ -47,7 +47,7 @@ We build on the existing [EOF cookbook](https://projectpythia.org/eofs-cookbook/
 
 Both products share the same non-zero eigenvalues, so the two routes give the same answer. The choice is mostly practical: we pick the smaller of the two matrices to keep the computation cheap.
 
-- A small 2-D example to see what the leading patterns look like.
+- [A small 2-D example to see what the leading patterns look like](EOF_2D.ipynb).
 - A 3-D example with one variable, for example, tropical SST anomalies.
   - Do the analysis with both versions of the covariance matrix and check that the EOFs, PCs, and explained variances agree.
 
