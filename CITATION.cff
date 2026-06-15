@@ -8,5 +8,10 @@ authors:
     website: https://github.com/jdmantillaq # optional
     affiliation: University at Albany (State University of New York) # optional
 
+  - family-names: Li
+    given-names: Suyue
+    website: https://github.com/suyueli42
+    affiliation: Texas A&M University
+
 title: "Spectral Analysis for Geophysical Data Cookbook"
 abstract: "A cookbook on spectral analysis methods for geophysical data with hands-on experience reproducing the Real-time Multivariate MJO (RMM) index used to study the Madden–Julian Oscillation (MJO)."
