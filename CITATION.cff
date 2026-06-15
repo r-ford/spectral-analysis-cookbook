@@ -30,6 +30,11 @@ authors:
     website: https://github.com/alexblackmer
     affiliation: University at Albany (State University of New York)
 
+ - family-names: Oliazadeh
+    given-names: Arman
+    website: https://github.com/Arri2424
+    affiliation: University of Georgia
+
 
 title: "Spectral Analysis for Geophysical Data Cookbook"
 abstract: "A cookbook on spectral analysis methods for geophysical data with hands-on experience reproducing the Real-time Multivariate MJO (RMM) index used to study the Madden–Julian Oscillation (MJO)."
