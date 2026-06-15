@@ -8,5 +8,12 @@ authors:
     website: https://github.com/jdmantillaq # optional
     affiliation: University at Albany (State University of New York) # optional
 
+  - family-names: Puthiyamadam Vasu
+    given-names: Sreedevi
+    orcid: https://orcid.org/0000-0002-9142-3476 # optional
+    website: https://github.com/sputhiyamadam # optional
+    affiliation: Florida Institute of Technology, Melbourne, Florida # optional
+
+
 title: "Spectral Analysis for Geophysical Data Cookbook"
 abstract: "A cookbook on spectral analysis methods for geophysical data with hands-on experience reproducing the Real-time Multivariate MJO (RMM) index used to study the Madden–Julian Oscillation (MJO)."
