@@ -16,6 +16,7 @@ project:
     - title: Introduction
       children:
         - file: notebooks/notebook-template.ipynb
+        - file: notebooks/gibbs-phenomenon.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
