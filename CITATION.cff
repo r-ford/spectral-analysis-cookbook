@@ -25,5 +25,11 @@ authors:
     website: https://github.com/suyueli42
     affiliation: Texas A&M University
 
+  - family-names: Blackmer
+    given-names: Alex
+    website: https://github.com/alexblackmer
+    affiliation: University at Albany (State University of New York)
+
+
 title: "Spectral Analysis for Geophysical Data Cookbook"
 abstract: "A cookbook on spectral analysis methods for geophysical data with hands-on experience reproducing the Real-time Multivariate MJO (RMM) index used to study the Madden–Julian Oscillation (MJO)."
