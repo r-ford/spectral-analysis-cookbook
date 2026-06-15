@@ -35,6 +35,11 @@ authors:
     orcid: https://orcid.org/0000-0002-7766-5137 # optional
     website: https://github.com/tianyiqun997 # optional
     affiliation: Duke University # optional
+    
+ - family-names: Oliazadeh
+    given-names: Arman
+    website: https://github.com/Arri2424
+    affiliation: University of Georgia
 
 
 title: "Spectral Analysis for Geophysical Data Cookbook"
