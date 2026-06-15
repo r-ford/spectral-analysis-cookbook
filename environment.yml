@@ -32,4 +32,6 @@ dependencies:
   # Data fetching utilities
   - pooch
   - requests
+  - s3fs
+  - zarr
 
