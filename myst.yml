@@ -15,6 +15,7 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
+        - file: notebooks/Harmonic_Analysis.ipynb
         - file: notebooks/gibbs-phenomenon.ipynb
         - file: notebooks/eofs-2d.ipynb
         - file: notebooks/freq-decomp.ipynb
