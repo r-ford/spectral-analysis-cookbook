@@ -15,9 +15,10 @@ project:
         - file: notebooks/how-to-cite.md
     - title: Introduction
       children:
-        - file: notebooks/notebook-template.ipynb
         - file: notebooks/gibbs-phenomenon.ipynb
-        - file: notebooks/2d-eofs.ipynb
+        - file: notebooks/eofs-2d.ipynb
+        - file: notebooks/freq-decomp.ipynb
+
   jupyter:
       binder:
         url: https://binder.projectpythia.org
