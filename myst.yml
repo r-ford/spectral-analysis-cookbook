@@ -15,15 +15,16 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: Introduction
+    - title: Data Analysis Methods
       children:
         - file: notebooks/Harmonic_Analysis.ipynb
         - file: notebooks/gibbs-phenomenon.ipynb
         - file: notebooks/eofs-2d.ipynb
-        - file: notebooks/eofs-3d.ipynb
+        - file: notebooks/eofs-3d.ipynb  
+    - title: Data Analysis Applications
+      children:
         - file: notebooks/freq-decomp.ipynb
         - file: notebooks/extended-eofs.ipynb
-
   jupyter:
       binder:
         url: https://binder.projectpythia.org
