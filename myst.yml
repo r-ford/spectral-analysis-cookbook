@@ -8,8 +8,32 @@ project:
   bibliography:
   - references.bib
   authors:
-    - name: The Project Pythia Community
-  copyright: '2024'
+    - name: Juan Diego Mantilla
+      affiliation: UAlbany
+      orcid: 0009-0009-9886-1928
+      github: jdmantillaq
+    - name: Sreedevi Puthiyamadam Vasu
+      affiliation: Florida Institute of Technology
+      orcid: 0000-0002-9142-3476
+      github: sputhiyamadam
+    - name: Robert R. Ford
+      affiliation: UAlbany
+      orcid: 0000-0001-5483-4965
+      github: r-ford
+    - name: Suyue Li
+      affiliation: Texas A&M University
+      github: suyueli42
+    - name: Alex Blackmer
+      affiliation: UAlbany
+      github: alexblackmer  
+    - name: Yiqun Tian
+      affiliation: Duke University
+      orcid: 0000-0002-7766-5137
+      github: tianyiqun997  
+    - name: Arman Oliazadeh
+      affiliation: University of Georgia
+      github: Arri2424  
+  copyright: '2026'
   toc:
     - file: README.md
     - title: Preamble
