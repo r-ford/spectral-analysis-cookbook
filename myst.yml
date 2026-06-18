@@ -47,6 +47,7 @@ project:
         - file: notebooks/harmonic_anomalies.ipynb
         - file: notebooks/Anomaly_time_series.ipynb
         - file: notebooks/gibbs-phenomenon.ipynb
+        - file: notebooks/spectral_analysis.ipynb
         - file: notebooks/eofs-2d.ipynb
         - file: notebooks/eofs-3d.ipynb  
     - title: Data Analysis Applications
@@ -54,6 +55,7 @@ project:
         - file: notebooks/freq-decomp.ipynb
         - file: notebooks/extended-eofs.ipynb
         - file: notebooks/ml-application.ipynb
+        - file: notebooks/Multivariate_EOFs_extract_MJO.ipynb
         - file: notebooks/Application_to_MJO.ipynb
   jupyter:
       binder:
