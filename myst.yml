@@ -8,8 +8,34 @@ project:
   bibliography:
   - references.bib
   authors:
-    - name: The Project Pythia Community
-  copyright: '2024'
+    - name: Juan Diego Mantilla
+      affiliation: UAlbany
+      orcid: 0009-0009-9886-1928
+      github: jdmantillaq
+    - name: Sreedevi Puthiyamadam Vasu
+      affiliation: Florida Institute of Technology
+      orcid: 0000-0002-9142-3476
+      github: sputhiyamadam
+    - name: Robert R. Ford
+      affiliation: UAlbany
+      orcid: 0000-0001-5483-4965
+      github: r-ford
+    - name: Suyue Li
+      affiliation: Texas A&M University
+      github: suyueli42
+    - name: Alex Blackmer
+      affiliation: UAlbany
+      orcid: 0009-0001-9889-1870
+      github: alexblackmer  
+    - name: Yiqun Tian
+      affiliation: Duke University
+      orcid: 0000-0002-7766-5137
+      github: tianyiqun997  
+    - name: Arman Oliazadeh
+      affiliation: University of Georgia
+      orcid: 0000-0002-3673-9793
+      github: Arri2424  
+  copyright: '2026'
   toc:
     - file: README.md
     - title: Preamble
@@ -18,6 +44,8 @@ project:
     - title: Data Analysis Methods
       children:
         - file: notebooks/Harmonic_Analysis.ipynb
+        - file: notebooks/harmonic_anomalies.ipynb
+        - file: notebooks/Anomaly_time_series.ipynb
         - file: notebooks/gibbs-phenomenon.ipynb
         - file: notebooks/spectral_analysis.ipynb
         - file: notebooks/eofs-2d.ipynb
@@ -27,6 +55,7 @@ project:
         - file: notebooks/freq-decomp.ipynb
         - file: notebooks/extended-eofs.ipynb
         - file: notebooks/Multivariate_EOFs_extract_MJO.ipynb
+        - file: notebooks/Application_to_MJO.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
