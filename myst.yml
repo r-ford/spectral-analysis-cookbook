@@ -51,6 +51,7 @@ project:
       children:
         - file: notebooks/freq-decomp.ipynb
         - file: notebooks/extended-eofs.ipynb
+        - file: notebooks/Application_to_MJO.ipynb
   jupyter:
       binder:
         url: https://binder.projectpythia.org
