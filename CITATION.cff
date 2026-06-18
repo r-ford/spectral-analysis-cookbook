@@ -30,17 +30,17 @@ authors:
     website: https://github.com/alexblackmer
     affiliation: University at Albany (State University of New York)
 
-  - family-names: Yiqun 
-    given-names: Tian
+  - family-names: Tian
+    given-names: Yiqun
     orcid: https://orcid.org/0000-0002-7766-5137 # optional
     website: https://github.com/tianyiqun997 # optional
     affiliation: Duke University # optional
     
   - family-names: Oliazadeh
     given-names: Arman
+    orcid: https://orcid.org/0000-0002-3673-9793 # optional
     website: https://github.com/Arri2424
     affiliation: University of Georgia
-
 
 title: "Spectral Analysis for Geophysical Data Cookbook"
 abstract: "A cookbook on spectral analysis methods for geophysical data with hands-on experience reproducing the Real-time Multivariate MJO (RMM) index used to study the Madden–Julian Oscillation (MJO)."
