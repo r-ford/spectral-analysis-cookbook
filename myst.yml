@@ -45,19 +45,19 @@ project:
       children:
         - file: notebooks/01.harmonic_analysis.ipynb
         - file: notebooks/02.harmonic_anomalies.ipynb
-        - file: notebooks/03.Anomaly_time_series.ipynb
-        - file: notebooks/04.discrete_fourier_transform.ipynb
-        - file: notebooks/05.fourier_spectral_analysis_tutorial.ipynb
-        - file: notebooks/06.gibbs-phenomenon.ipynb
-        - file: notebooks/07.eofs-2d.ipynb
-        - file: notebooks/08.eofs-3d.ipynb  
+        - file: notebooks/03.discrete_fourier_transform.ipynb
+        - file: notebooks/04.fourier_spectral_analysis_tutorial.ipynb
+        - file: notebooks/05.gibbs-phenomenon.ipynb
+        - file: notebooks/06.eofs-2d.ipynb
+        - file: notebooks/07.eofs-3d.ipynb
     - title: Data Analysis Applications
       children:
+        - file: notebooks/08.anomaly_time_series.ipynb
         - file: notebooks/09.freq-decomp.ipynb
         - file: notebooks/10.extended-eofs.ipynb
         - file: notebooks/11.spectral_analysis.ipynb
-        - file: notebooks/12.Multivariate_EOFs_extract_MJO.ipynb
-        - file: notebooks/13.Application_to_MJO.ipynb
+        - file: notebooks/12.multivariate_eofs_extract_mjo.ipynb
+        - file: notebooks/13.regressing_fields_to_mjo_indices.ipynb
         - file: notebooks/14.ml-application.ipynb
   jupyter:
       binder:
