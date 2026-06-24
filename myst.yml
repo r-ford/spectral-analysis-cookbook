@@ -52,7 +52,7 @@ project:
         - file: notebooks/07.eofs-3d.ipynb
     - title: Data Analysis Applications
       children:
-        - file: notebooks/08.anomaly_time_series.ipynb
+        - file: notebooks/08.anomalies-time-series.ipynb
         - file: notebooks/09.freq-decomp.ipynb
         - file: notebooks/10.extended-eofs.ipynb
         - file: notebooks/11.spectral_analysis.ipynb
